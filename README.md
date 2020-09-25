@@ -3,7 +3,7 @@ Um aplicativo para buscar barbeiros e agendar serviços na barbearia de acordo c
 
 TAREFAS A REALIZAR:
 
-`[] criando sistema web para o Barbeiro [working now...]<br>
+`[] criando sistema web para o Barbeiro [working now...]<br></br>
 [] criar o README.md
 [] criar screenshots e video do app em funcionamento.
 [] criar post no linkedin
