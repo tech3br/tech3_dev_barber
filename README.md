@@ -7,5 +7,5 @@ TAREFAS A REALIZAR:
 [] criar o README.md
 [] criar screenshots e video do app em funcionamento.
 [] criar post no linkedin
-[] compartilhar o post nas redes sociais.
+[] compartilhar o post nas redes sociais.`
 
