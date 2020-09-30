@@ -28,7 +28,6 @@ export default ({data}) => {
       <Avatar source={{uri: data.avatar}} />
       <InfoArea>
         <UserName>{data.name}</UserName>
-
         <Stars stars={data.stars} showNumber={true} />
 
         <SeeProfileButton>

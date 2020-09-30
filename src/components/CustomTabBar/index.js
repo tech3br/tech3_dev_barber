@@ -11,6 +11,7 @@ export default ({state, navigation}) => {
   const {state: user} = useContext(UserContext);
 
   // function tooltip para navegar ate a tela desejada
+  // Ir para qual tela...
   const goTo = (screenName) => {
     navigation.navigate(screenName);
   };
